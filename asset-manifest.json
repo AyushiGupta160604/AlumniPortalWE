@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AlumniPortalWE/static/css/main.f6bb775e.css",
+    "main.js": "/AlumniPortalWE/static/js/main.d58654ee.js",
+    "index.html": "/AlumniPortalWE/index.html",
+    "main.f6bb775e.css.map": "/AlumniPortalWE/static/css/main.f6bb775e.css.map",
+    "main.d58654ee.js.map": "/AlumniPortalWE/static/js/main.d58654ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6bb775e.css",
+    "static/js/main.d58654ee.js"
+  ]
+}
