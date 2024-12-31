@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/AlumniPortalWE/static/css/main.f6bb775e.css",
-    "main.js": "/AlumniPortalWE/static/js/main.ed7b5a9c.js",
-    "index.html": "/AlumniPortalWE/index.html",
-    "main.f6bb775e.css.map": "/AlumniPortalWE/static/css/main.f6bb775e.css.map",
-    "main.ed7b5a9c.js.map": "/AlumniPortalWE/static/js/main.ed7b5a9c.js.map"
+    "main.css": "./static/css/main.f6bb775e.css",
+    "main.js": "./static/js/main.335e1367.js",
+    "index.html": "./index.html",
+    "main.f6bb775e.css.map": "./static/css/main.f6bb775e.css.map",
+    "main.335e1367.js.map": "./static/js/main.335e1367.js.map"
   },
   "entrypoints": [
     "static/css/main.f6bb775e.css",
-    "static/js/main.ed7b5a9c.js"
+    "static/js/main.335e1367.js"
   ]
 }
